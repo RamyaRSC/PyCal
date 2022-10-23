@@ -1,1 +1,1 @@
-print("hell world!")
+print("hell useless world!")
